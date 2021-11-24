@@ -5,6 +5,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/wkeyuan/DWSurvey?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/wkeyuan/DWSurvey?style=social)
 
+### 这是Struts2版本的备份主分支，SpringBoot版本在master主分支
+
 ### 全新的企业版已经发布，前后端分别采用 Ant design、Spring Boot，详情可参考官网。
 
 其它版本也在更新计划中，敬请期待。
