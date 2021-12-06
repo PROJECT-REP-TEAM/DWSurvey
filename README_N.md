@@ -1,5 +1,5 @@
 # 调问开源问卷系统（DWSurvey）
-
+    
     此代码仓库为基于 Spring Boot、Vue 实现的后端仓库
 
 [![star](https://gitee.com/wkeyuan/DWSurvey/badge/star.svg?theme=dark)](https://gitee.com/wkeyuan/DWSurvey/stargazers)
@@ -131,9 +131,9 @@ DWSurvey是一款简单、高效、成熟、稳定、专业的开源问卷系统
 
 ### 基本步骤
 
-1、下载代码后
+1、下载代码后 
 
-具体代码地址参考[多种技术方案](#多种技术方案)
+具体代码地址参考[多种技术方案](#多种技术方案) 
 
 2、创建数据库进行初始化
 
@@ -143,9 +143,9 @@ DWSurvey是一款简单、高效、成熟、稳定、专业的开源问卷系统
 
 说明：升级后的数据库与老版本兼容
 
-3、用IDEA打开，进行本地开发
+3、用IDEA打开，进行本地开发 
 
-现在您可以进行本地开发了
+现在您可以进行本地开发了 
 
 4、开发完成，编译打包
 
@@ -171,9 +171,9 @@ mvn package
 
     分别修改```url、username、password```
 
-5、启动浏览器访问
+5、启动浏览器访问 
 
-输入 http://localhost:8080
+输入 http://localhost:8080 
 
 初始账号：```service@diaowen.net``` 密码：```123456```
 
@@ -231,8 +231,8 @@ DWSurvey以通用公共许可证AGPL3.0为开源协议，需要更优质的服�
 
 ## 作者
 
-柯远 ```keyuan258@gmail.com```
+ 柯远 ```keyuan258@gmail.com```
 
 ### 谢谢您的支持
 
-觉得不错就点下右上角的star，随时关注我们的动态，非常感谢！
+ 觉得不错就点下右上角的star，随时关注我们的动态，非常感谢！
